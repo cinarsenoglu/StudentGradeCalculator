@@ -32,7 +32,6 @@ Enter student grade: 85
 
 ### List Students
 Choice: 2  
-
 Result:
 ID    : 101  
 Name  : Cinar Senoglu  
