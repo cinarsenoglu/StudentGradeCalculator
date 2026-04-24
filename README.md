@@ -24,11 +24,13 @@ A menu-driven C program for managing student records.
 
 ## Example
 
+### Add Student
 Choice: 1  
 Enter student ID: 101  
 Enter student name: Cinar Senoglu  
 Enter student grade: 85  
 
+### List Students
 Choice: 2  
 
 Result:
